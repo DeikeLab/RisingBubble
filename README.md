@@ -3,7 +3,7 @@
 bubble.c
 
 #### Comparison with Loth (2008)
-The DNS results of bubble rising in the quiescent medium are compared with experiments Loth 2008. 
+The DNS results of bubble rising in the quiescent medium are compared with experiments in Loth 2008. 
 As the dimensional analysis in Section~\ref{nn} has shown, three dimensionless variables are needed to describe this problem. To compare, we use the same dimensionless variables as in the experiment \citep{loth2008quasi}, the drag coefficient $C_d = {4dg}/{3w_b^2}$, the quiescent bubble Reynolds number $Re_q = {\rho_l w_b d}/{\mu_l}$, and the Morton number $Mo = {g\mu_l^4}/{\rho_l\sigma^3}$,
 which lacks a direct physical interpretation but is conveniently used to characterize liquid properties in experiments. The figure shows that the DNS results are in good agreement with the fitting for clean spherical bubbles
 \begin{equation}
