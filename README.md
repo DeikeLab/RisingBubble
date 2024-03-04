@@ -8,7 +8,7 @@ As the dimensional analysis shows, three dimensionless variables are needed to d
 which lacks a direct physical interpretation but is conveniently used to characterize liquid properties in experiments. The figure below shows that the DNS results are in good agreement with the fitting for clean spherical bubbles
 \begin{equation}
 $$
-C_d =\frac{16}{Re_q}\left\{1+\left[\frac{8}{R e_{q}}+\frac{1}{2}\left(1+\frac{3.315}{\sqrt{R e_{q}}}\right)\right]^{-1}\right\},
+C_d =\frac{16}{Re_q}{1+[\frac{8}{R e_{q}}+\frac{1}{2}(1+\frac{3.315}{\sqrt{R e_{q}}})]^{-1}},
 $$
 \label{eq:q}
 \end{equation}
