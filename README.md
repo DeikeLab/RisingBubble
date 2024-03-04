@@ -10,6 +10,7 @@ which lacks a direct physical interpretation but is conveniently used to charact
 $$
 C_d =\frac{16}{Re_q}\left\{1+\left[\frac{8}{R e_{q}}+\frac{1}{2}\left(1+\frac{3.315}{\sqrt{R e_{q}}}\right)\right]^{-1}\right\},
 $$
+\label{eq:q}
 \end{equation}
 and implicit semiempirical formula for deformed bubbles at different Morton numbers
 
