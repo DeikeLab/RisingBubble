@@ -10,7 +10,6 @@ which lacks a direct physical interpretation but is conveniently used to charact
 $$
 C_d =\frac{16}{Re_q}
 $$
-\label{eq:q}
 \end{equation}
 and implicit semiempirical formula for deformed bubbles at different Morton numbers
 
