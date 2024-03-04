@@ -4,8 +4,7 @@ bubble.c
 
 #### Comparison with Loth (2008)
 Comparison of drag coefficient of quiescent bubble rising between our DNS and experimental fitting in Loth (2008):
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/DeikeLab/RisingBubble/blob/main/Comparison.png))
-
+![alt text]([https://github.com/DeikeLab/RisingBubble/blob/main/Comparison.png?raw=true])
 
 
 #### Grid convergence 
