@@ -9,3 +9,4 @@ Comparison of drag coefficient of quiescent bubble rising between our DNS and ex
 
 #### Grid convergence 
 Velocity signal of bubble rising from simulations with different resolutions (L8/L9/L10). Results are converged between L9 and L10, therefore L9 is enough.
+![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSignal.png)
