@@ -8,4 +8,4 @@ Comparison of drag coefficient of quiescent bubble rising between our DNS and ex
 ![Comparison](https://github.com/DeikeLab/RisingBubble/blob/main/Comparison.png)
 
 #### Grid convergence 
-Same simulations with different resolutions (L8/L9/L10). Results are converged between L9 and L10, therefore L9 is enough.
+Simulations with different resolutions (L8/L9/L10). Results are converged between L9 and L10, therefore L9 is enough.
