@@ -20,4 +20,4 @@ Velocity signal of bubble rising from simulations with different resolutions (L8
 
 + Turbulent case:
 
-![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSigTur.png)
+![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSignalt.png)
