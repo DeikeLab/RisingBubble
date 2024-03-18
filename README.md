@@ -16,7 +16,7 @@ Velocity signal of bubble rising from simulations with different resolutions (L8
 
 + Quiescent case ($Fr=0.5, We=0.13, Bo=0.7, Ga=100$):
 
-![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSignal.png)
+![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSig.png)
 
 + Turbulent case ($Fr=0.75, We=0.13, Bo=0.3, Ga=67$):
 
