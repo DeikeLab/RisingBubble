@@ -12,9 +12,7 @@ and implicit semiempirical formula for deformed bubbles at different Morton numb
 ![Comparison](https://github.com/DeikeLab/RisingBubble/blob/main/Comparison.png)
 
 #### Grid convergence 
-Velocity signal of bubble rising from simulations with different resolutions (L8/L9/L10). Results are converged between L9 and L10, therefore L9 is enough.
-
-Vertical rise speed signal of bubble rising in quiescent flow ($Fr=0.5, We=0.13, Bo=0.7, Ga=100$):
+Velocity signal of bubble rising in quiescent flow ($Fr=0.5, We=0.13, Bo=0.7, Ga=100$) from simulations with different resolutions (L8/L9/L10). Results are converged between L9 and L10, therefore L9 is enough.
 
 ![Convergence](https://github.com/DeikeLab/RisingBubble/blob/main/VelSig.png)
 
